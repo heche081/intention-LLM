@@ -1,6 +1,5 @@
 """Tests for the IntentionAnalyzer class."""
 
-
 from intention_llm import IntentionAnalyzer
 from intention_llm.analyzer import IntentionResult
 
