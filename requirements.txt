@@ -1,0 +1,7 @@
+# Core dependencies for intention-llm
+# No external dependencies required for base functionality
+
+# Optional dependencies for extended functionality (uncomment as needed):
+# openai>=1.0.0  # For OpenAI API integration
+# anthropic>=0.5.0  # For Anthropic API integration
+# transformers>=4.30.0  # For local model inference
